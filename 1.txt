@@ -1,0 +1,10 @@
+
+
+Book Translator
+
+A platform for translating books and large text documents.
+
+Two-step process. For better quality.
+
+The tool processes text files using Ollama LLM models with a two-stage approach: primary translation followed by AI self-reflection and refinement for better results. Suitable for translators, publishers, authors, researchers and content creators who need to translate large text documents.
+Support for multiple languages including English, Russian, Spanish, French, German, Italian, Portuguese, Chinese, and Japanese. Genre-specific modes (fiction, technical, academic, business, poetry), real-time translation progress tracking for both stages, translation history and status monitoring, automatic error recovery and retry mechanisms, and multi-format export (TXT, PDF, EPUB). 
